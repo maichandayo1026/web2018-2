@@ -40,11 +40,6 @@
   <div id="txt1">
     <input type="button" value="テキストの変更"onclick="txtchange1();">
     城西大学</div>
-  <div id="image1">
-    <input type="button"value="画像の変更"onclick="image1();">
-    <img scr='./image/josai.png'id="logo"alt="josai LOgo"></div>
-  
-   
   
   </body>
 </html>
